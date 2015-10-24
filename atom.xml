@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Hazelor]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.hazelor.com/"/>
+  <updated>2015-10-24T01:03:30.447Z</updated>
+  <id>http://www.hazelor.com/</id>
+  
+  <author>
+    <name><![CDATA[Xiao Guo]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hazelor团队]]></title>
+    <link href="http://www.hazelor.com/2015/10/24/demo/"/>
+    <id>http://www.hazelor.com/2015/10/24/demo/</id>
+    <published>2015-10-24T02:34:12.000Z</published>
+    <updated>2015-10-24T01:03:30.447Z</updated>
+    <content type="html"><![CDATA[<p>这是Hazelor团队的主页，Building!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这是Hazelor团队的主页，Building!</p>
+]]>
+    </summary>
+    
+      <category term="About" scheme="http://www.hazelor.com/tags/About/"/>
+    
+  </entry>
+  
+</feed>
