@@ -1,0 +1,20 @@
+menu:
+    home: /
+    blog: /archives/
+    rss: /atom.xml
+    github: https://github.com/xxxxx
+
+favicon: /favicon.png
+
+google_analytics: UA-XXXXXXX-X
+baidu_analytics: //hm.baidu.com/hm.js?xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+selfIntro:
+    title: 
+    content: 
+    social:
+        weibo:
+        github:
+        email:
+        facebook:
+        twitter: 
